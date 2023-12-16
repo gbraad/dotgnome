@@ -1,0 +1,2 @@
+# dotgnome
+Gnome settings
